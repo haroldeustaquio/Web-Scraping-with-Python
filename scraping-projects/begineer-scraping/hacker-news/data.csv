@@ -1,0 +1,297 @@
+,title,href,points,by,hours ago,comments
+0,DeskPad – A virtual monitor for screen sharing,https://github.com/Stengo/DeskPad,873,geerlingguy,18,121
+1,Nurdle Patrol,https://www.nurdlepatrol.org/app/,43,amar-laksh,5,2
+2,The Copenhagen Book: general guideline on implementing auth in web applications,https://thecopenhagenbook.com/,528,sebnun,16,129
+3,AAA Gaming on Asahi Linux,https://rosenzweig.io/blog/aaa-gaming-on-m1.html,699,6a74,21,233
+4,Scuda – Virtual GPU over IP,https://github.com/kevmo314/scuda,84,kevmo314,7,15
+5,Show HN: HTML for People,https://htmlforpeople.com,430,blakewatson,17,144
+6,Uxn,https://100r.co/site/uxn.html,333,tosh,15,62
+7,Game Programming in Prolog,https://thingspool.net/morsels/page-10.html,204,febin,15,40
+8,ARIA: An Open Multimodal Native Mixture-of-Experts Model,https://arxiv.org/abs/2410.05993,62,jinqueeny,11,13
+9,Show HN: Tenno – Markdown and JavaScript = a hybrid of Word and Excel,https://tenno.app,328,deepmacro,21,121
+10,History Of Hacking The Nintendo 3DS (2019) [pdf],https://courses.csail.mit.edu/6.857/2019/project/20-Chau-Ko-Tang.pdf,17,supernikio2,4,1
+11,Helping wikis move away from Fandom,https://weirdgloop.org/blog/why-were-helping-more-wikis-move-away-from-fandom,958,creatonez,23,438
+12,Discovering Roman Mosaics (2020),https://www.world-archaeology.com/features/discovering-roman-mosaics/,20,thunderbong,6,6
+13,Proposal: JavaScript Structs,https://github.com/tc39/proposal-structs,168,Kholin,19,227
+14,Research in psychology: are we learning anything?,https://www.experimental-history.com/p/is-psychology-going-to-cincinnati,135,ctoth,18,142
+15,The science behind on-the-wrist blood pressure tracking,https://www.empirical.health/blog/apple-watch-blood-pressure/,121,brandonb,20,73
+16,Nobel Peace Prize for 2024 awarded to Nihon Hidankyo,https://www.nobelprize.org/press-release-peace-2024/,108,danielskogly,2,95
+17,AP5 -  Declarative Programming Library For Common Lisp (1995),https://oceanpark.com/ap5.html,5,contrapunctus,3,1
+18,Ceres: An ocean world in the asteroid belt,https://www.astronomy.com/science/ceres-an-ocean-world-in-the-asteroid-belt/,65,JumpCrisscross,13,16
+19,Designing a Fast Concurrent Hash Table,https://ibraheem.ca/posts/designing-papaya/,139,burntsushi,22,21
+20,$2 H100s: How the GPU Rental Bubble Burst,https://www.latent.space/p/gpu-bubble,268,swyx,8,164
+21,Ironies of Automation (1983),http://www.complexcognition.co.uk/2021/06/ironies-of-automation.html,62,harperlee,16,8
+22,"Kudzu, the vine that never ate the South (2015)",https://www.smithsonianmag.com/science-nature/true-story-kudzu-vine-ate-south-180956325/,57,NoRagrets,17,58
+23,How electric trains work and why they make interesting sounds [video],https://www.youtube.com/watch?v=IRJIJPTUXXE,166,zdw,22,64
+24,Chunkr – Vision model based PDF chunking,https://github.com/lumina-ai-inc/chunkr,36,redbell,12,4
+25,Day Rates (2023),https://davesmyth.com/day-rates,124,herbertl,8,39
+26,Bridge to Nowhere,https://depth-first.com/articles/2024/05/24/bridge-to-nowhere/,91,egorpv,16,58
+27,Answer any question about your photo albums with OmniQuery,https://jiahaoli.net/omniquery/,47,ljhnick,14,14
+28,A Photo of the Moon,https://www.thisiscolossal.com/2024/10/darya-kawa-mirza-moon-photos/,77,surprisetalk,10,22
+29,End-to-End Encrypted Cloud Storage in the Wild: A Broken Ecosystem,https://brokencloudstorage.info/,109,dogtype,22,60
+30,DeskPad – A virtual monitor for screen sharing,https://github.com/Stengo/DeskPad,873,geerlingguy,18,121
+31,Nurdle Patrol,https://www.nurdlepatrol.org/app/,43,amar-laksh,5,2
+32,The Copenhagen Book: general guideline on implementing auth in web applications,https://thecopenhagenbook.com/,529,sebnun,16,130
+33,AAA Gaming on Asahi Linux,https://rosenzweig.io/blog/aaa-gaming-on-m1.html,699,6a74,21,233
+34,Scuda – Virtual GPU over IP,https://github.com/kevmo314/scuda,84,kevmo314,7,15
+35,Show HN: HTML for People,https://htmlforpeople.com,432,blakewatson,17,144
+36,Uxn,https://100r.co/site/uxn.html,333,tosh,16,62
+37,Game Programming in Prolog,https://thingspool.net/morsels/page-10.html,204,febin,15,40
+38,ARIA: An Open Multimodal Native Mixture-of-Experts Model,https://arxiv.org/abs/2410.05993,62,jinqueeny,11,13
+39,Show HN: Tenno – Markdown and JavaScript = a hybrid of Word and Excel,https://tenno.app,328,deepmacro,21,121
+40,History Of Hacking The Nintendo 3DS (2019) [pdf],https://courses.csail.mit.edu/6.857/2019/project/20-Chau-Ko-Tang.pdf,17,supernikio2,4,1
+41,Helping wikis move away from Fandom,https://weirdgloop.org/blog/why-were-helping-more-wikis-move-away-from-fandom,958,creatonez,23,438
+42,Discovering Roman Mosaics (2020),https://www.world-archaeology.com/features/discovering-roman-mosaics/,20,thunderbong,6,6
+43,Proposal: JavaScript Structs,https://github.com/tc39/proposal-structs,168,Kholin,19,227
+44,Research in psychology: are we learning anything?,https://www.experimental-history.com/p/is-psychology-going-to-cincinnati,135,ctoth,18,142
+45,The science behind on-the-wrist blood pressure tracking,https://www.empirical.health/blog/apple-watch-blood-pressure/,121,brandonb,20,73
+46,Nobel Peace Prize for 2024 awarded to Nihon Hidankyo,https://www.nobelprize.org/press-release-peace-2024/,108,danielskogly,2,95
+47,AP5 -  Declarative Programming Library For Common Lisp (1995),https://oceanpark.com/ap5.html,5,contrapunctus,3,1
+48,Ceres: An ocean world in the asteroid belt,https://www.astronomy.com/science/ceres-an-ocean-world-in-the-asteroid-belt/,65,JumpCrisscross,13,16
+49,Designing a Fast Concurrent Hash Table,https://ibraheem.ca/posts/designing-papaya/,139,burntsushi,22,21
+50,$2 H100s: How the GPU Rental Bubble Burst,https://www.latent.space/p/gpu-bubble,268,swyx,9,164
+51,Ironies of Automation (1983),http://www.complexcognition.co.uk/2021/06/ironies-of-automation.html,62,harperlee,16,8
+52,"Kudzu, the vine that never ate the South (2015)",https://www.smithsonianmag.com/science-nature/true-story-kudzu-vine-ate-south-180956325/,57,NoRagrets,17,58
+53,How electric trains work and why they make interesting sounds [video],https://www.youtube.com/watch?v=IRJIJPTUXXE,166,zdw,22,64
+54,Chunkr – Vision model based PDF chunking,https://github.com/lumina-ai-inc/chunkr,36,redbell,12,4
+55,Day Rates (2023),https://davesmyth.com/day-rates,124,herbertl,8,39
+56,Bridge to Nowhere,https://depth-first.com/articles/2024/05/24/bridge-to-nowhere/,91,egorpv,16,58
+57,Answer any question about your photo albums with OmniQuery,https://jiahaoli.net/omniquery/,47,ljhnick,14,14
+58,A Photo of the Moon,https://www.thisiscolossal.com/2024/10/darya-kawa-mirza-moon-photos/,77,surprisetalk,10,22
+59,End-to-End Encrypted Cloud Storage in the Wild: A Broken Ecosystem,https://brokencloudstorage.info/,109,dogtype,22,60
+60,Llamafile for Meltemi: The First LLM for Greek,https://tselai.com/meltemi-llamafile,42,fforflo,17,17
+61,Realizing the dream of good workplace software,https://www.campsite.com/blog/realizing-the-dream-of-good-workplace-software,12,monkey_slap,10,5
+62,Geothermal Power in the North Bay,https://blog.jonudell.net/2024/10/05/geothermal-power-in-the-north-bay/,41,rbanffy,15,15
+63,Is population density the reason Americans can't discuss politics?,https://www.georgesaines.com/blog/2024/10/10/is-population-density-the-reason-americans-cant-discuss-politics,66,gsaines,12,180
+64,5 Years Later: The First Win,https://thephd.dev/5-years-later-the-first-big-unicode-win-omg-yay,37,todsacerdoti,17,4
+65,Let's talk about animation quality,https://theorangeduck.com/page/animation-quality,222,ibobev,23,63
+66,TypedDicts are better than you think,https://blog.changs.co.uk/typeddicts-are-better-than-you-think.html,121,rbanffy,17,99
+67,The deconstructed Standard Model equation,https://www.symmetrymagazine.org/article/the-deconstructed-standard-model-equation?language_content_entity=und,37,thorum,17,26
+68,No Time Like MEMS Time,https://morethanmoore.substack.com/p/no-time-like-mems-time,31,rbanffy,16,17
+69,"Open-TV: Ultra-fast, simple and powerful cross-platform IPTV app",https://github.com/Fredolx/open-tv,129,thunderbong,1,29
+70,Automating processes with software is hard,https://hardcoresoftware.learningbyshipping.com/p/222-automating-processes-with-software,257,rbanffy,1,94
+71,"Nixiesearch: Running Lucene over S3, and why we're building a new search engine",https://nixiesearch.substack.com/p/nixiesearch-running-lucene-over-s3,113,shutty,1,71
+72,Running WolfSSL and Curl on Windows 2000,http://datagirl.xyz/posts/wolfssl_curl_w2k.html,30,todsacerdoti,12,10
+73,The 'Beautiful Confusion' of the First Billion Years Comes into View,https://www.quantamagazine.org/the-beautiful-confusion-of-the-first-billion-years-comes-into-view-20241009/,16,bookofjoe,12,discuss
+74,AMD EPYC Turin delivers better performance/power efficiency than AmpereOne,https://www.phoronix.com/review/amd-epyc-9965-ampereone/3,81,geerlingguy,14,28
+75,OS/2 TCPBEUI Name Resolution,https://www.os2museum.com/wp/os-2-tcpbeui-name-resolution/,70,kencausey,1,21
+76,Why Gov.uk's Exit this Page component doesn't use the Escape key,https://beeps.website/blog/2024-10-09-why-govuk-exit-this-page-doesnt-use-escape/,383,todsacerdoti,1,234
+77,Implementing Raft: Part 4 – Key/Value Database,https://eli.thegreenplace.net/2024/implementing-raft-part-4-keyvalue-database/,5,azhenley,8,discuss
+78,Fun with Go Iterators,https://xnacly.me/posts/2024/fun-with-iterators/,153,xnacly,1,121
+79,Switching to 5Ghz WiFi made the Raspberry Pi fly again,http://moritzhamann.com/blog/2024-10-08-raspberrypi-wifi-freq.html,23,mrtz,4,16
+80,Chemistry Nobel: Computational protein design and protein structure prediction,https://www.nobelprize.org/prizes/chemistry/2024/press-release/,533,mitchbob,2,307
+81,Tesla Robotaxi,https://www.tesla.com/we-robot,202,iamwil,7,504
+82,The Warlord of Saturn's Moons,https://storyoftheweek.loa.org/2024/10/the-warlord-of-saturns-moons.html,33,mitchbob,23,5
+83,BigSearch Browser Extension,https://github.com/garywill/BigSearch,29,Duckyroad,10,discuss
+84,Napkin: Back-of-the-envelope calculations in Python,https://github.com/rescrv/napkin,21,HammadB,17,3
+85,Owe your banker £1k you are at his mercy; owe him £1m the position is reversed (2019),https://quoteinvestigator.com/2019/04/23/bank/,147,squircle,23,153
+86,California bans sell-by dates,https://www.foodandwine.com/california-bans-sell-by-dates-8723111,192,noworld,1,269
+87,"Japan's Kojima, with its proud Jeans St, draws fans of vintage, deep-blue denim",https://apnews.com/article/japan-jeans-denim-kojima-indigo-291d243b88d5c8b67108e2641f739569,25,Geekette,17,10
+88,Author and Aviator,https://literaryreview.co.uk/author-aviator,13,lermontov,19,discuss
+89,Doom updated and re-released on SNES,https://softwareengineeringdaily.com/2024/10/10/doom-on-super-nintendo-with-randy-linden/,3,com2kid,9,discuss
+90,Hurricane Milton's Impact: 70 Florida Cities See 50%+ Drop in Internet Traffic,https://twitter.com/CloudflareRadar/status/1844444286911381980,81,emot,16,39
+91,"AMD Launches EPYC 9005 ""Turin"" Server Processors Review",https://www.phoronix.com/review/amd-epyc-9005,22,kristianp,11,discuss
+92,The strict aliasing situation is pretty bad (2016),https://blog.regehr.org/archives/1307,70,pkkm,1,55
+93,The State of the TI Community (1999),https://www.ticalc.org/community/articles/27.html,33,ForHackernews,18,12
+94,Tiny Table Index: directory of solo and duet tabletop roleplaying games,https://www.tinytableindex.com/,9,homarp,16,discuss
+95,AI-Powered Electronic Component Sorter,https://github.com/Vanguard-s/Electronic-Component-Sorter,19,peter_d_sherman,16,5
+96,John Carmack on inlined code (2014),http://number-none.com/blow/blog/programming/2014/09/26/carmack-on-inlined-code.html,545,bpierre,2,382
+97,First Report on the Pre-Scheme Restoration,https://prescheme.org/posts/first-report-on-the-pre-scheme-restoration.html,41,paroneayea,10,2
+98,Quantum Advantage for NP Approximation,https://scottaaronson.blog/?p=8375,83,apsec112,1,34
+99,50 Years of Queries,https://cacm.acm.org/research/50-years-of-queries/,112,rbanffy,1,29
+100,Internet Archive: Security breach alert,https://www.theverge.com/2024/10/9/24266419/internet-archive-ddos-attack-pop-up-message,1049,ewenjo,1,584
+101,Portugal seeks to become low-tax haven for young people,https://www.ft.com/content/41dd7994-3b1f-4562-a59f-11879b5e3f68,96,alephnerd,21,228
+102,"Indian entrepreneur, industrialist, and philanthropist, Ratan Tata, dead at 86",https://en.wikipedia.org/wiki/Ratan_Tata,360,Brajeshwar,1,128
+103,'Nearly unusable': Calif. police majorly push back on Tesla cop cars,https://www.sfgate.com/bayarea/article/california-switch-electric-cars-cops-19816671.php,12,jayantbhawal,4,discuss
+104,Motion (YC W20) is hiring our first customer success manager,https://jobs.ashbyhq.com/motion/f1a2ebd8-c390-4d23-89e7-519979f4630b?utm_source=hn,,1,,
+105,Dito – an advanced Layer 7 reverse proxy server written in Go,https://github.com/andrearaponi/dito,,,,
+106,US weighs Google break-up in landmark antitrust case,https://www.ft.com/content/f6e84608-e0e5-48c5-a0eb-dde7675fb608,,,,
+107,'Entire ecosystem' of fossils 8.7M years old found under Los Angeles high school,https://www.theguardian.com/us-news/2024/sep/15/fossils-los-angeles-high-school,,,,
+108,Configuring the XpPen ACK05 Remote with Only Floss on GNU/Linux: My Investigati,https://www.davidrevoy.com/article1047/configuring-the-xppen-ack05-remote-with-only-floss-on-gnulinux-my-investigation-and-workarounds,,,,
+109,WASM Is the New CGI,https://roborooter.com/post/wasm-is-the-new-cgi/,,,,
+110,Akihito and the Sorrows of Japan (2020),https://www.lrb.co.uk/the-paper/v42/n06/richard-lloyd-parry/akihito-and-the-sorrows-of-japan,,,,
+111,Show HN: Donobu – Mac App for Web Automation and Testing,https://www.donobu.com/,,,,
+112,"On 17th century ""cocaine""",https://resobscura.substack.com/p/on-17th-century-cocaine,,,,
+113,Studios: Please don't spoil the movie we are seated to see,http://fxrant.blogspot.com/2024/06/studios-dont-spoil-movie-we-are-seated.html,,,,
+114,Wafer Scale and Trilogy Systems: Part 1,https://thechipletter.substack.com/p/wafer-scale-trilogy-systems-part,,,,
+115,Local Variables as Accidental Breadcrumbs for Faster Debugging,https://www.bugsink.com/blog/local-variables-as-accidental-breadcrumbs/,,,,
+116,The Rails Doctrine,https://rubyonrails.org/doctrine,,,,
+117,WebPKI – Introduce Schedule of Reducing Validity (Of TLS Server Certificates),https://github.com/cabforum/servercert/pull/553/files,,,,
+118,Man Learns He's Being Dumped via 'Dystopian' Apple Intelligence Summary of Texts,https://arstechnica.com/ai/2024/10/man-learns-hes-being-dumped-via-dystopian-ai-summary-of-texts/,,,,
+119,G4 (Severe) Geomagnetic Storming Observed,https://www.swpc.noaa.gov/news/g4-severe-geomagnetic-storming-observed-0,,,,
+120,Zod: TypeScript-first schema validation with static type inference,https://zod.dev/,239,tosh,1,192
+121,An n-ball Between n-balls,https://www.arnaldur.be/writing/about/an-n-ball-between-n-balls,238,Hugsun,1,54
+122,HTML for People,https://www.htmlforpeople.com,4,todsacerdoti,14,discuss
+123,Who died and left the US $7B?,https://sherwood.news/power/who-died-and-left-the-us-7-billion-fayez-sarofim/,441,jsnell,2,524
+124,The Semantic Reader Project: Augmenting Scholarly Documents with AI,https://cacm.acm.org/research/the-semantic-reader-project/,4,mitchbob,14,discuss
+125,Boxedwine is an emulator that runs Windows applications,https://www.boxedwine.org/,5,marcodiego,14,4
+126,"Ask HN: Anyone learned art (drawing, caricature etc.) as an adult?",item?id=41756978,80,akudha,1,80
+127,arxiv.org,from?site=arxiv.org,311,InvisibleUp,2,113
+128,arxiv.org,from?site=arxiv.org,550,weirdcat,2,173
+129,cnbc.com,from?site=cnbc.com,7,teleforce,10,discuss
+130,universiteitleiden.nl,from?site=universiteitleiden.nl,157,gpvos,1,54
+131,ploum.net,from?site=ploum.net,149,andai,3,125
+132,cedardb.com,from?site=cedardb.com,8,eatonphil,15,discuss
+133,aljazeera.com,from?site=aljazeera.com,65,ricardoplouis,20,49
+134,rethinkingsoftware.substack.com,from?site=rethinkingsoftware.substack.com,87,rbanffy,1,124
+135,dookiedemastered.com,from?site=dookiedemastered.com,769,nickthegreek,1,198
+136,finetunedb.com,from?site=finetunedb.com,148,felix089,1,67
+137,janestreet.com,from?site=janestreet.com,34,paulpauper,18,6
+138,fluffyandflakey.blog,from?site=fluffyandflakey.blog,3,luu,16,2
+139,levels.fyi,from?site=levels.fyi,211,zuhayeer,1,150
+140,kristoff.it,from?site=kristoff.it,527,alraj,3,361
+141,cnbc.com,from?site=cnbc.com,22,emrah,14,26
+142,luckymike.dev,from?site=luckymike.dev,196,mooreds,1,50
+143,theguardian.com,from?site=theguardian.com,224,pseudolus,1,553
+144,nature.com,from?site=nature.com,57,_justinfunk,2,8
+145,lwn.net,from?site=lwn.net,41,signa11,9,12
+146,nullonerror.org,from?site=nullonerror.org,291,delduca,2,163
+147,player.style,from?site=player.style,381,Heff,2,63
+148,github.com/google,from?site=github.com/google,93,gnabgib,1,45
+149,Kernighan's Lever (2012),https://www.linusakesson.net/programming/kernighans-lever/index.php,95,tosh,3,18
+150,Show HN: I made an SSH tunnel manager to learn Go,https://github.com/alebeck/boring,209,0x12A,2,66
+151,Gustav Klimt's Obsession with Gold,https://news.artnet.com/art-world-archives/gustav-klimt-gold-2543498,106,pseudolus,2,40
+152,Fast B-Trees,https://www.scattered-thoughts.net/writing/smolderingly-fast-btrees/,270,surprisetalk,4,64
+153,The mystery of why left-handers are so much rarer (2016),https://www.bbc.com/future/article/20160930-the-mystery-of-why-left-handers-are-so-much-rarer,103,blubbb,2,277
+154,Against dystopian views of high-speed audiobook listening,https://dynomight.substack.com/p/audiobooks,6,gregorymichael,18,discuss
+155,The missing middle: firms in developing countries,https://asteriskmag.com/issues/07/want-growth-kill-small-businesses,100,falcor84,2,182
+156,Show HN: My microkernel-based OS built from scratch now has basic Unix commands,https://github.com/lux-operating-system/kernel,64,jewelcodesxo,2,8
+157,"Wordpress.org Login: ""I am not affiliated with WP Engine in any way""",https://www.404media.co/wordpress-checkbox-login-wp-engine/,195,notamy,1,234
+158,Cognizant found guilty of discriminating against non-Indian employees,https://www.siliconvalley.com/2024/10/07/h-1b-visa-company-supplying-thousands-of-tech-workers-to-silicon-valley-discriminated-against-non-indians-jury-finds/,425,Melchizedek,2,398
+159,FreeWP Is Here to Shake Up the WordPress Ecosystem,https://freewp.com/,62,rpgbr,11,43
+160,How to make Product give a shit about your architecture proposal,https://gieseanw.wordpress.com/2024/10/09/how-to-make-product-give-a-shit-about-your-architecture-proposal/,160,andyg_blog,1,142
+161,Apple Hosts Secretive Conferences to Teach Law Enforcement,https://www.macrumors.com/2024/10/10/apple-law-enforcement-conferences/,8,mgh2,10,discuss
+162,Building a robust data synchronization framework with Rails,https://pcreux.com/2024/10/07/rails-data-sync-service.html,75,pcreux,2,8
+163,What Is LibreDrive (2019),https://forum.makemkv.com/forum/viewtopic.php?t=18856,150,Tomte,2,38
+164,"Black Hole Destroys Star, Goes After Another, NASA Missions Find",https://chandra.si.edu/photo/2024/tde/,18,raattgift,1,3
+165,Retrieval powered by object storage: AMA,item?id=41803154,15,jeffchuber,14,7
+166,rwblickhan.org,from?site=rwblickhan.org,148,yu3zhou4,1,65
+167,eriksen.com.br,from?site=eriksen.com.br,423,eriksencosta,2,227
+168,sq.io,from?site=sq.io,601,stavepan,4,129
+169,surfingcomplexity.blog,from?site=surfingcomplexity.blog,41,ingve,2,1
+170,phoronix.com,from?site=phoronix.com,23,mfiguiere,16,10
+171,engadget.com,from?site=engadget.com,4,bookofjoe,9,discuss
+172,Miqt: MIT-licensed Qt bindings for Go,https://github.com/mappu/miqt,74,wkyleg,1,75
+173,"Next.js, Just Why?",https://pilcrowonpaper.com/blog/nextjs-why/,109,todsacerdoti,2,82
+174,SpaceX Dragon receives propulsive landing upgrade after years of development,https://www.nasaspaceflight.com/2024/10/dragon-propulsive-landing/,52,swyx,14,31
+175,A modest critique of Htmx,https://chrisdone.com/posts/htmx-critique/,4,LorenDB,9,discuss
+176,A popular but wrong way to convert a string to uppercase or lowercase,https://devblogs.microsoft.com/oldnewthing/20241007-00/?p=110345,312,wibwobble12333,2,159
+177,Practices of Reliable Software Design,https://entropicthoughts.com/practices-of-reliable-software-design,203,ingve,3,258
+178,Practices of Reliable Software Design,https://entropicthoughts.com/practices-of-reliable-software-design,226,fagnerbrack,2,51
+179,Software spotlight: Cassette software for the IBM PC,https://forum.winworldpc.com/discussion/11503/software-spotlight-cassette-software-for-the-ibm-pc,31,snvzz,1,10
+180,How Waffle House helps Southerners and FEMA judge a storm's severity,https://apnews.com/article/waffle-house-index-hurricane-milton-e0547ca1fb11ddcadab50035a0da7819,70,geox,1,35
+181,Cars bricked by bankrupt EV company will stay bricked – by Cory Doctorow,https://pluralistic.net/2024/10/10/software-based-car/#based,53,Anon84,16,18
+182,My negative views on Rust (2023),https://chrisdone.com/posts/rust/,189,rc00,1,291
+183,Show HN: I Made an AI Resume Maker That Turns Any Job Link into Tailored Resumes,https://resumeset.com/,5,josylad,1,9
+184,"Show HN: Squey, an open-source GPU-accelerated data visualization software",https://squey.org,65,jbleonesio,3,13
+185,Nobel Prize in Physics awarded to John Hopfield and Geoffrey Hinton [pdf],https://www.nobelprize.org/uploads/2024/09/advanced-physicsprize2024.pdf,932,drpossum,3,792
+186,Show HN: Itineraries.io – I built a joint trip planner in between surgeries,https://itineraries.io,93,samaralihussain,1,67
+187,My search for the mysterious missing secretary who shaped chatbot history,https://theconversation.com/my-search-for-the-mysterious-missing-secretary-who-shaped-chatbot-history-225602,59,severine,2,11
+188,Rabbit hole: stumbling across two Portuguese punched cards,https://blog.jgc.org/2024/10/rabbit-hole-stumbling-across-two.html,180,jgrahamc,2,59
+189,How a Gas Compressor Station Works,https://kimray.com/training/how-gas-compressor-station-works,89,teleforce,2,68
+190,A Language of Beautiful Impurity,https://www.edwest.co.uk/p/a-language-of-beautiful-impurity,58,nafnlj,2,13
+191,The Disappearance of an Internet Domain,https://every.to/the-crazy-ones/the-disappearance-of-an-internet-domain,52,marban,1,26
+192,The Romance of Seahorses,https://nautil.us/the-strange-romance-of-seahorses-899669/,15,mooreds,1,2
+193,Elon Musk unveils Tesla Cybercab self-driving robotaxi,https://www.theguardian.com/technology/2024/oct/11/elon-musk-unveils-tesla-cybercab-self-driving-robotaxi,5,beardyw,3,discuss
+194,PEP 760: No more bare excepts,https://discuss.python.org/t/pep-760-no-more-bare-excepts/67182,161,ayhanfuat,1,378
+195,Lunar Lake's iGPU: Debut of Intel's Xe2 Architecture,https://chipsandcheese.com/p/lunar-lakes-igpu-debut-of-intels,131,mfiguiere,2,62
+196,We'll buy back your Typewriter for Uncle Sam,https://pncnmnp.github.io/blogs/typewriter-uncle-sam.html,130,pncnmnp,4,52
+197,"Google must open Android for third-party stores, rules Epic judge",https://www.theverge.com/policy/2024/10/7/24243316/epic-google-permanent-injunction-ruling-third-party-stores,779,dblitt,3,576
+198,Unseen Thunderbirds film reels found in garden shed,https://www.bbc.co.uk/news/articles/c1e848ewnlno,217,samizdis,3,95
+199,The FBI created a coin to investigate crypto pump-and-dump schemes,https://www.theverge.com/2024/10/10/24267098/fbi-coin-crypto-token-nexgenai-sec-doj-fraud-investigation,105,croes,15,111
+200,Can you get root with only a cigarette lighter?,https://www.da.vidbuchanan.co.uk/blog/dram-emfi.html,674,1317,3,149
+201,Virtualizing iOS on Apple Silicon,https://nickb.website/blog/virtualizing-ios-on-apple-silicon,356,walterbell,3,153
+202,Do U.S. ports need more automation?,https://www.construction-physics.com/p/do-us-ports-need-more-automation,199,gok,2,308
+203,Video Surveillance with YOLO+llava,https://github.com/PsyChip/machina,258,psychip,3,65
+204,AMD EPYC 9755 / 9575F / 9965 Benchmarks Show Dominating Performance Review,https://www.phoronix.com/review/amd-epyc-9965-9755-benchmarks,7,rbanffy,15,discuss
+205,Bluesky struggles to moderate child abuse material in Portuguese,https://nucleo.jor.br/english/2024-09-24-bluesky-struggles-to-moderate-csam/,41,donohoe,1,16
+206,The Nazi of Oak Park,https://www.chicagomag.com/chicago-magazine/september-2024/the-nazi-of-oak-park/,124,gmays,2,134
+207,Prioritize Through Purpose,https://belowwaterlevel.com/2024/10/05/prioritize-through-purpose/,42,shehjar,2,20
+208,"The Book of Kells, now digitized and available online",https://www.openculture.com/2024/09/the-medieval-masterpiece-the-book-of-kells-is-now-digitized-and-available-online.html,413,ColinWright,4,98
+209,An illustrated proof of the CAP theorem (2018),https://mwhittaker.github.io/blog/an_illustrated_proof_of_the_cap_theorem/,263,tripdout,3,83
+210,Fatty acids found in meat and poultry may be beneficial to human metabolism,https://medicalxpress.com/news/2024-10-fatty-acids-meat-poultry-beneficial.html,21,XzetaU8,1,13
+211,Don't let dicts spoil your code,https://roman.pt/posts/dont-let-dicts-spoil-your-code/,192,juniperplant,2,112
+212,"Show HN: ServerlessAI – Build, scale, and monetize AI apps without back end",https://serverlessai.dev/,85,HeavenFox,3,31
+213,An e-waste dumping ground,https://www.npr.org/sections/goats-and-soda/2024/10/05/g-s1-6411/electronics-public-health-waste-ghana-phones-computers,398,andsoitis,3,291
+214,Engineering Geology of the BART System (2000),http://sonic.net/~mly/www.geolith.com/bart/,66,pastureofplenty,3,13
+215,The costs of the i386 to x86-64 upgrade,https://blogsystem5.substack.com/p/x86-64-programming-models,116,thunderbong,3,70
+216,Self-experiment with L-theanine: effect on sleep and cognition,https://metasophi.com/blog/does-l-theanine-work-for-me/,76,sheefrex,3,43
+217,Lina Khan Is Just Getting Started (She Hopes),https://www.bloomberg.com/news/features/2024-10-09/lina-khan-on-a-second-ftc-term-ai-price-gouging-data-privacy,7,eric-hu,12,1
+218,Your brain changes based on what you did two weeks ago,https://www.newsweek.com/brain-changes-neuroscience-exercise-sleep-health-two-weeks-1965107,95,thunderbong,1,17
+219,Gleam Is Pragmatic,https://blog.drewolson.org/gleam-is-pragmatic/,250,crowdhailer,4,173
+220,Show HN: GoSQL – A query engine in 319 LoC,https://github.com/archiewood/gosql,81,archiewood,3,9
+221,What's New in Ruby on Rails 8,https://blog.appsignal.com/2024/10/07/whats-new-in-ruby-on-rails-8.html,537,amalinovic,3,271
+222,The Wobbly Table Theorem (2022),https://people.math.harvard.edu/~knill/teaching/math1a_2011/exhibits/wobblytable/,44,mpweiher,3,36
+223,How do HTTP servers figure out Content-Length?,https://aarol.dev/posts/go-contentlength/,270,misonic,4,115
+224,Shrinking augmented reality displays into eyeglasses to expand their use,https://phys.org/news/2024-09-augmented-reality-displays-eyeglasses.html,66,PaulHoule,2,17
+225,How to make Psylocibin with yeast – Journal Club [video],https://www.youtube.com/watch?v=ThLOGg22OA0,32,e1gen-v,1,discuss
+226,Idiomatic Awk (2010),https://backreference.org/2010/02/10/idiomatic-awk/,129,StefanBatory,4,31
+227,AVX Bitwise ternary logic instruction busted,https://arnaud-carre.github.io/2024-10-06-vpternlogd/,317,msephton,4,66
+228,"Hello, Perceptron (2023)",https://matt.might.net/articles/hello-perceptron/,34,KnuthIsGod,2,2
+229,Show HN: Instant HTML Preview Bookmarklet,https://gist.github.com/rmtbb/e42d870a59a7f98091e734674831072b,128,somefries,4,38
+230,Show HN: Offline audiobook from any format with one CLI command,https://github.com/C-Loftus/QuickPiperAudiobook,102,C-Loftus,4,41
+231,Ask HN: Do you track how your email address is used?,item?id=41801594,13,themingus,17,18
+232,tylerrussell.dev,from?site=tylerrussell.dev,32,ned_at_codomain,2,7
+233,theregister.com,from?site=theregister.com,14,pseudolus,10,2
+234,utcc.utoronto.ca,from?site=utcc.utoronto.ca,85,ingve,2,58
+235,bleepingcomputer.com,from?site=bleepingcomputer.com,36,zerojames,1,7
+236,overclock3d.net,from?site=overclock3d.net,4,doener,14,discuss
+237,Canvases versus Documents,https://kaiwenwang.com/writing/canvases-versus-documents,86,todsacerdoti,2,19
+238,Homemade AI drone software finds people when search and rescue teams can't,https://www.wired.com/story/this-homemade-ai-drone-software-finds-bodies-when-search-and-rescue-teams-cant/,252,sohkamyung,4,140
+239,On the Nature of Time,https://writings.stephenwolfram.com/2024/10/on-the-nature-of-time/,350,iamwil,2,258
+240,"Show HN: I made a free (open-source) extension, to use any LLM on Google sheet",https://www.aisheeter.com/,14,tuantruong,2,6
+241,"Press Conference: Professor Geoffrey Hinton, Nobel Prize in Physics 2024 [video]",https://www.youtube.com/watch?v=H7DgMFqrON0,143,moose44,1,20
+242,Trap – Transformers in APL,https://github.com/BobMcDear/trap,94,tlack,2,30
+243,The Open Source AI Definition RC1 Is Available for Comments,https://opensource.org/blog/the-open-source-ai-definition-v-1-0-rc1-is-available-for-comments,47,foxbee,1,23
+244,"Ptxdist – ""Professional Embedded Linux Made Easy""",https://www.ptxdist.org/,60,grodriguez100,3,7
+245,Transcript errors generate amyloid-like proteins in human cells,https://www.nature.com/articles/s41467-024-52886-2,4,bookofjoe,13,discuss
+246,"Ziggy: Data serialization language for expressing API messages, config files",https://ziggy-lang.io,104,thunderbong,4,15
+247,"Croissant – a brand new app for cross-posting to Bluesky, Mastodon, and Threads",https://benricemccarthy.ghost.io/croissant/,4,hn1986,18,discuss
+248,"What is ""founder mode""?",https://tomblomfield.com/post/763715798246227968/what-is-founder-mode,86,nqureshi,2,65
+249,European govt air-gapped systems breached using custom malware,https://www.welivesecurity.com/en/eset-research/mind-air-gap-goldenjackal-gooses-government-guardrails/,271,tagyro,2,240
+250,Why the First Pet Cemetery Was Revolutionary,https://www.smithsonianmag.com/arts-culture/why-the-worlds-first-pet-cemetery-was-revolutionary-180985127/,21,gmays,2,16
+251,"Waverley, the last seagoing paddle steamer",https://diamondgeezer.blogspot.com/2024/10/waverley.html,61,zeristor,4,29
+252,Fukushima Reactor: TEPCO robot aims to extract nuclear fuel,https://spectrum.ieee.org/fukushima-reactor,145,rbanffy,3,345
+253,Chrome Canary just killed uBlock Origin and other Manifest V2 extensions,https://www.androidpolice.com/chrome-canary-manifest-v2-extensions-ad-blockers-gone/,85,abixb,4,46
+254,Optimizing Postgres table layout for maximum efficiency,https://r.ena.to/blog/optimizing-postgres-table-layout-for-maximum-efficiency/,201,napsterbr,3,67
+255,Unlocking the 'aha' moment: Developer relations for startups,https://www.signalfire.com/blog/devrel-for-startups,70,jonmarkgo,3,10
+256,When Earth had rings,https://nautil.us/when-earth-had-rings-920177/,126,rbanffy,5,49
+257,OpenAI pursues public benefit structure to fend off hostile takeovers,https://www.ft.com/content/5649b66e-fdb3-46d3-84e0-23e33bdaf363,134,JumpCrisscross,1,68
+258,"AT&T, Verizon reportedly hacked to target US govt wiretapping platform",https://www.bleepingcomputer.com/news/security/atandt-verizon-reportedly-hacked-to-target-us-govt-wiretapping-platform/,233,el_duderino,3,58
+259,Apple Helping Police Use iPhones for Surveillance,https://www.forbes.com/sites/thomasbrewster/2024/10/09/apple-sells-privacy-to-consumers-but-its-quietly-helping-police-use-iphones-for-surveillance/,34,alexzeitler,1,5
+260,A DIY photographer built his own full-frame camera and open-sourced the project,https://www.dpreview.com/articles/0535447263/the-sitina-s1-how-a-determined-diy-photographer-built-his-own-full-frame-camera,160,jbellis,1,30
+261,Elon Musk wants to dominate robotaxis–first he needs to catch up to Waymo,https://www.understandingai.org/p/elon-musk-wants-to-dominate-robotaxisfirst,8,xnx,17,2
+262,FEMA spent nearly half its disaster budget in just 8 days,https://www.politico.com/news/2024/10/10/fema-disaster-budget-hurricane-helene-melton-00183219,8,impish9208,14,2
+263,Unoffice Hours (2020),https://interconnected.org/home/2020/09/24/unoffice_hours,87,andai,4,29
+264,The magic (image resampling) kernel,https://johncostella.com/magic/,167,BoingBoomTschak,3,37
+265,Gokapi: Lightweight selfhosted Firefox Send alternative with AWS S3 support,https://github.com/Forceu/Gokapi,121,thunderbong,5,37
+266,Akin's Laws of Spacecraft Design,https://spacecraft.ssl.umd.edu/old_site/academics/akins_laws.html,7,fanf2,14,1
+267,Software-defined processors: the promise of RISC-V,https://next.redhat.com/2024/10/09/software-defined-processors-the-promise-of-risc-v/,5,thebeardisred,1,discuss
+268,Abacus Machines [pdf],https://carstenfuehrmann.org/lectures/computability-10.pdf,51,shakna,3,2
+269,Julia 1.11 Highlights,https://julialang.org/blog/2024/10/julia-1.11-highlights/index.html,74,jarbus,1,18
+270,"For ranchers in Costa Rica, jaguars and pumas become unexpected allies",https://news.mongabay.com/2024/10/for-ranchers-in-costa-rica-jaguars-and-pumas-become-unexpected-allies/,55,PaulHoule,1,18
+271,"Ask HN: What's the ""best"" book you've ever read?",item?id=41756432,366,simonebrunozzi,3,923
+272,reuters.com,from?site=reuters.com,76,JumpCrisscross,2,55
+273,chromewebstore.google.com,from?site=chromewebstore.google.com,269,ziolko,4,32
+274,chinamediaproject.org,from?site=chinamediaproject.org,7,bookofjoe,18,discuss
+275,newyorker.com,from?site=newyorker.com,22,mitchbob,3,1
+276,oup.com,from?site=oup.com,12,Traces,1,5
+277,acm.org,from?site=acm.org,210,sohkamyung,1,107
+278,science.org,from?site=science.org,67,rbanffy,4,41
+279,codeberg.page,from?site=codeberg.page,85,bbbhltz,3,25
+280,asimov.com,from?site=asimov.com,95,mailyk,4,134
+281,seroundtable.com,from?site=seroundtable.com,8,rntn,15,17
+282,youtube.com,from?site=youtube.com,3,tdeck,15,discuss
+283,github.com/thudm,from?site=github.com/thudm,154,taikon,3,29
+284,antirez.com,from?site=antirez.com,135,drudru,1,60
+285,hpyproject.org,from?site=hpyproject.org,257,gjvc,5,87
+286,cmu.edu,from?site=cmu.edu,37,todsacerdoti,3,1
+287,inc.com,from?site=inc.com,105,happy-go-lucky,1,78
+288,dreamsongs.com,from?site=dreamsongs.com,263,t14n,3,329
+289,jonathancohenweb.com,from?site=jonathancohenweb.com,82,dadt,3,110
+290,stanford.edu,from?site=stanford.edu,118,walterbell,5,31
+291,dyalog.com,from?site=dyalog.com,281,secwang,5,194
+292,hushkit.net,from?site=hushkit.net,198,speckx,3,627
+293,ieee.org,from?site=ieee.org,200,thebeardisred,5,100
+294,blogsystem5.substack.com,from?site=blogsystem5.substack.com,49,todsacerdoti,3,33
+295,jakelazaroff.com,from?site=jakelazaroff.com,252,veggieroll,3,142

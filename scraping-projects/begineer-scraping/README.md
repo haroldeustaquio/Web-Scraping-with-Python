@@ -18,15 +18,28 @@ In this section, I'll focus on three main tools:
    - A powerful data manipulation library used to store and organize the scraped data in structured formats like DataFrames.
    - [Documentation](https://pandas.pydata.org/)
 
+4. **`numpy`**: 
+   - A fundamental package for numerical computing in Python. It supports large, multi-dimensional arrays and matrices, and provides a collection of mathematical functions to operate on these arrays.
+   - [Documentation](https://numpy.org/)
+
+5. **`selenium`**: 
+   - A tool for automating web browsers. It allows you to navigate through web pages, interact with elements, and perform dynamic content scraping.
+   - [Documentation](https://www.selenium.dev/documentation/)
+
 
 ## 📂 Project Structure
 
 This directory contains the following projects:
 
-### 1. temp
-- **Goal**: Learn to scrape data from static HTML pages, such as blogs or simple e-commerce websites.
-- **Tools Used**: `requests`, `BeautifulSoup`, `pandas`.
-- **Project Path**: `/beginner-scraping/temp/`
+### 1. Hacker News Scraper
+- **Goal**: Extract basic information from posts on the [Hacker News](https://news.ycombinator.com/) homepage, including titles, links, points, rated by, hours ago, and comments.
+- **Tools Used**: `Pandas`, `numpy`, `BeautifulSoup`, `Requests`.
+- **Project Path**: `hacker-news/`
+
+### 2. IMDb Top 250 Scraper
+- **Goal**: Extract movie details from [IMDb Top 250](https://www.imdb.com/chart/top/)  (title, year, duration, rating, reviews, and image URL) from IMDb's Top 250 movies page.
+- **Tools Used**: `Selenium`, `pandas`
+- **Project Path**: `IMDb/`
 
 Each project has its own directory with a detailed `README.md` explaining how the scraper works and how to run the code.
 

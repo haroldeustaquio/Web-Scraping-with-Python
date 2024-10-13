@@ -14,7 +14,7 @@ This scraper is designed as a basic web scraping project using:
 
 ## Project Structure
 
-- `scraper.py`: The main scraper file, which contains the code to extract data.
+- `scraper.ipynb`: The main scraper file, which contains the code to extract data.
 - `user_info.csv`: The processed user data obtained from the GitHub profile.
 - `repos_info.csv`: The processed repository data obtained from the profile.
 - `README.md`: This file explains how the project works and how to use it.
